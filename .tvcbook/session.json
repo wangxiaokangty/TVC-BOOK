@@ -1,0 +1,94 @@
+{
+  "cookies": [
+    {
+      "name": "8mweHbbGLB2NQsMd_csrf-frontend",
+      "value": "ac8d930f7ba2e00c8df25b95b3e64d5910633a80442ebdcbd180d2f65fd6d36fa%3A2%3A%7Bi%3A0%3Bs%3A30%3A%228mweHbbGLB2NQsMd_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22zIuwOJ5r92ZTlLVk8YMeiGLee-EPi-nF%22%3B%7D",
+      "domain": "www.tvcbook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SERVERID",
+      "value": "2d198d5687e283431f281e202bde7d8e|1792983908|1792983906",
+      "domain": "www.tvcbook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "access_token",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGl4LnR2Y2Jvb2suY29tXC9hcGlcL2FjY291bnRcL2xvZ2luIiwiaWF0IjoxNzkyOTg0MDU1LCJleHAiOjE3OTM1ODg4NTUsIm5iZiI6MTc5Mjk4NDA1NSwianRpIjoiRW5ETlVlam1XeUl2OXdscCIsInN1YiI6MzczNjE2LCJwcnYiOiJmZmY2NWRkZDU3MmZlNDI4YjAzODQyZWU1MjU0YTc5ZWZhYmE1OTUyIn0.UKY5fhAYj71vsH1RSjVvyWRpjhamVu72FrM_KKZxKE4",
+      "domain": ".tvcbook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logined",
+      "value": "true",
+      "domain": ".tvcbook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tvcbook-ad-frontend",
+      "value": "mdl3ia8gvlt26afbf9gohqt9e0",
+      "domain": "www.tvcbook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.tvcbook.com",
+      "localStorage": [
+        {
+          "name": "mobile",
+          "value": "13127187796"
+        },
+        {
+          "name": "tvcbook_playback_session_id",
+          "value": "pb_1792983907098_7246e839f2eba8"
+        },
+        {
+          "name": "userInfo",
+          "value": "{\"id\":373616,\"uid\":373616,\"user_id\":373616,\"name\":\"86-13127187796\",\"nickname\":\"86-13127187796\",\"avatar\":\"\",\"avatar_url\":\"\",\"is_verified\":0,\"vip\":null}"
+        },
+        {
+          "name": "user_id",
+          "value": "373616"
+        },
+        {
+          "name": "tvcbook_analytics_visitor_id",
+          "value": "anon_mvooboyi_eef9teb3uq"
+        },
+        {
+          "name": "access_token",
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGl4LnR2Y2Jvb2suY29tXC9hcGlcL2FjY291bnRcL2xvZ2luIiwiaWF0IjoxNzkyOTg0MDU1LCJleHAiOjE3OTM1ODg4NTUsIm5iZiI6MTc5Mjk4NDA1NSwianRpIjoiRW5ETlVlam1XeUl2OXdscCIsInN1YiI6MzczNjE2LCJwcnYiOiJmZmY2NWRkZDU3MmZlNDI4YjAzODQyZWU1MjU0YTc5ZWZhYmE1OTUyIn0.UKY5fhAYj71vsH1RSjVvyWRpjhamVu72FrM_KKZxKE4"
+        },
+        {
+          "name": "phoneCode",
+          "value": "86"
+        },
+        {
+          "name": "tvcbook_analytics_session_id",
+          "value": "{\"id\":\"sess_mvooboyi_k4evy1srw6\",\"updated_at\":1792983907098}"
+        }
+      ]
+    }
+  ],
+  "collector_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+}
